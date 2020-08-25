@@ -29,7 +29,7 @@ $  dcl start
 - https://sandbox.babylonjs.com/
 - https://freesound.org/
 - https://docs.decentraland.org/development-guide/game-objects/
-- https://github.com/decentraland/decentraland-ecs-utils#move-an-entity
+- https://github.com/decentraland/decentraland-ecs-utils
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs
 - https://decentraland.org/
 - https://github.com/decentraland-scenes/Awesome-Repository
