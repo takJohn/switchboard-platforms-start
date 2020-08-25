@@ -23,6 +23,16 @@ Download this example and navigate to its directory, then run:
 $  dcl start
 ```
 
+## Useful links
+
+- https://sandbox.babylonjs.com/
+- https://freesound.org/
+- https://docs.decentraland.org/development-guide/game-objects/
+- https://github.com/decentraland/decentraland-ecs-utils#move-an-entity
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs
+- https://decentraland.org/
+- https://github.com/decentraland-scenes/Awesome-Repository
+
 ## Acknowledgements
 
 - _coinPickup.mp3_ modified from https://freesound.org/people/MATRIXXX_/sounds/402766/ 
