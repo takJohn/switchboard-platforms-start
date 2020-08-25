@@ -25,6 +25,7 @@ $  dcl start
 
 ## Useful links
 
+- https://github.com/takJohn/switchboard-platforms-start
 - https://sandbox.babylonjs.com/
 - https://freesound.org/
 - https://docs.decentraland.org/development-guide/game-objects/
