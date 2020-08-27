@@ -25,7 +25,7 @@ $  dcl start
 
 ## Useful links
 
-- Project files: https://github.com/takJohn/switchboard-platforms-start
+- Starting project files: https://github.com/takJohn/switchboard-platforms-start
 - Finished project files: https://github.com/decentraland-scenes/switchboard-platforms
 - To view .gltf and .glb files: https://sandbox.babylonjs.com/
 - Resource for sounds: https://freesound.org/
