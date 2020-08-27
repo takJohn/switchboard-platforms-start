@@ -25,14 +25,15 @@ $  dcl start
 
 ## Useful links
 
-- https://github.com/takJohn/switchboard-platforms-start
-- https://sandbox.babylonjs.com/
-- https://freesound.org/
-- https://docs.decentraland.org/development-guide/game-objects/
-- https://github.com/decentraland/decentraland-ecs-utils
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs
-- https://decentraland.org/
-- https://github.com/decentraland-scenes/Awesome-Repository
+- Project files: https://github.com/takJohn/switchboard-platforms-start
+- Finished project files: https://github.com/decentraland-scenes/switchboard-platforms
+- To view .gltf and .glb files: https://sandbox.babylonjs.com/
+- Resource for sounds: https://freesound.org/
+- Learn about game objects: https://docs.decentraland.org/development-guide/game-objects/
+- Pre-built tools for building Decentraland scenes: https://github.com/decentraland/decentraland-ecs-utils
+- Information about the math function used in this tutorial: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs
+- Decentraland's homepage: https://decentraland.org/
+- Examples and tutorials to help you get started building Decentraland scenes: https://github.com/decentraland-scenes/Awesome-Repository
 
 ## Acknowledgements
 
